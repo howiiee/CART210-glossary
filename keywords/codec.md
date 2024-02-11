@@ -12,11 +12,11 @@ In the realm of visual arts, the artistic exploration of codecs is exemplified b
 
 The ongoing innovation in codec technology, including the development of both proprietary and open-source variants, continues to be integral to enhancing multimedia experiences on the Internet. This is especially evident in the increasing demand for codecs that can provide high video compression efficiency in the face of rising video data traffic, balancing the need for quality, bandwidth availability, and processing capability.
 
-[^kerdranvat20codec]: Kerdranvat, Michel, Ya Chen and Rémi Jullian. 2020. "The Video Codec Lanscape in 2020." 
+[^kerdranvat20codec]: Michel Kerdranvat, Ya Chen and Rémi Jullian, "The Video Codec Lanscape in 2020,", ITU Journal: ICT Discoveries, 2020.
 
-[^chen18codec]: Chen, Yue, Debargha Murherjee and Jingning Han. 2018. "An Overview of Core Coding Tools in the AV1 Video Codec."
+[^chen18codec]: Chen Yue and al., "An Overview of Core Coding Tools in the AV1 Video Codec," 2018 Picture Coding Symposium (PCS), San Francisco, CA, USA, 2018, 41-45, DOI: 10.1109/PCS.2018.8456249.
 
-[^hoelzl13codec]: Hoelzl, Ingrid and Remi Marie. 2013. "CODEC: on Thomas Ruff's JPEGs."
+[^hoelzl13codec]: Ingrid Hoelzl and Remi Marie, "CODEC: on Thomas Ruff's JPEGs," Digital Creativity, no. 1 (2014): 79-96. doi:10.1080/14626268.2013.817434.
 
 
 
